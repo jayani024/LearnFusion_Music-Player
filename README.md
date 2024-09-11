@@ -15,8 +15,4 @@ Developed a Music Player App with a sleek, user-friendly interface and advanced 
 
 ▪ Album Art Integration: Displays album art with a background color that dynamically changes based on the dominant color of the album cover.
 
-▪ Category Filtering: Sort and filter songs by categories such as K-pop, Indian, and Pop for a customized listening experience.
-
-▪ Search Functionality: Quickly find songs and artists using the integrated search bar.
-
 ▪ Responsive Design: Ensures a visually appealing and functional interface across various devices and screen sizes.
